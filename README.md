@@ -1,3 +1,9 @@
+[![tiny-chess-01](https://make.fun/badge/tiny-chess-01.svg)](https://make.fun/bounty/tiny-chess-01)
+[![rank](https://make.fun/badge/tiny-chess-01/sobihum/tiny-chess-engine/rank.svg)](https://make.fun/bounty/tiny-chess-01)
+[![reward](https://make.fun/badge/tiny-chess-01/sobihum/tiny-chess-engine/reward.svg)](https://make.fun/bounty/tiny-chess-01)
+
+[tiny-chess-01 bounty on make.fun](https://make.fun/bounty/tiny-chess-01)
+
 # tiny-chess-01 entry
 
 A chess engine in at most 4,096 bytes of Python for make.fun bounty
